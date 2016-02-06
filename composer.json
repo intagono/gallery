@@ -1,0 +1,17 @@
+{
+    "name": "intagono/gallery",
+    "description": "La neta del planeta",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ramiro Vera",
+            "email": "ramiro@intagono.com"
+        },
+        {
+            "name": "Jacob",
+            "email": "jacob@intagono.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
